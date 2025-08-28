@@ -9,12 +9,10 @@ setup(
         "regex>=2023.0.0",
     ],
     python_requires=">=3.7",
-    author="Your Name",
-    author_email="your.email@example.com",
     description="A library for masking PII (Personally Identifiable Information) in text",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pii-masking",
+    url="https://github.com/lamebrain0/piidata-masker",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
