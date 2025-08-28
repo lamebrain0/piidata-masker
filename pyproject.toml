@@ -7,7 +7,7 @@ name = "piidata-masker"
 version = "1.0.3"
 description = "A library for masking PII (Personally Identifiable Information) in text"
 authors = [
-    {name = "lama", email = "manish.sspandey1@gmail.com"}
+    {name = "lamebrain0"}
 ]
 readme = "README.md"
 requires-python = ">=3.7"
